@@ -1,0 +1,184 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 576px;
+    background-color: #F0FFF0;
+}
+
+.navbar{
+    height: 120px;
+    background-color: #F0FFF0;
+}
+
+.navbar img{
+    margin: 30px 0px;
+    width: 200px;
+}
+
+.nav-item{
+    padding: 0px 24px;
+    font-weight: 500;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+.sign{
+    background-color: #21B573;
+    padding: 10px 28px;
+    border-radius: 33px;
+    border: none;
+    color: white;
+    font-weight: 500;
+}
+
+.in-head h5{
+    color: #FD511A;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+}
+
+h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+    margin: 60px 0px;
+}
+
+.black-header{
+    color: black;
+}
+
+h4{
+    color: #413960;
+    font-size: 24px;
+}
+
+h6{
+    font-size: 16px;
+    margin-left: 10px;
+    color: dimgray;
+}
+
+p{
+    color: dimgray;
+}
+
+span{
+    color: #21B573;
+}
+
+.container, .header{
+    margin-bottom: 40px;
+}
+
+.in-head img{
+    width: 100%;
+}
+
+.in-head h5,h1,.sign{
+    padding-bottom: 10px;
+}
+
+.in-head p{
+    width: 400px;
+    font-size: 16px;
+    line-height: 36px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.second img{
+    width: 65px;
+    margin-bottom: 20px;
+}
+
+.square{
+    width: 270px;
+    height: 270px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.square:hover{
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.third img{
+    padding: 25px 20px;
+}
+
+.card{
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+
+.info{
+    margin-top: 34px;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+    padding: 0px !important;
+}
+
+.fourth img{
+    width: 120px;
+}
+
+.fourth p{
+    width: 580px;
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 52px;
+}
+
+.fifth{
+    margin-top: 60px;
+    height: 400px;
+    background-color: #282531;
+}
+
+.fifth p{
+    color: white;
+    width: 364px;
+}
+
+.list-group-item{
+    background-color: #282531;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.list-head{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.fifth .container{
+    padding-top: 55px;
+}
+
+.foot{
+    font-size: 16px;
+    color: #CDCDCD;
+    text-align: center;
+    padding-top: 30px;
+}
